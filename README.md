@@ -1,5 +1,5 @@
-Proyecto1Telematicos
+Proyecto2Telematicos
 
-este es el primer proyecto de la materia de servicios telematicos / universidad distrial
+este es el segundo proyecto de la materia de servicios telematicos / universidad distrial
 
 LINK = https://toyotatelematicos.herokuapp.com/
